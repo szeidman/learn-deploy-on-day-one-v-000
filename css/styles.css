@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#sam-zeidman-cover {
+    background-image: url("http://i.imgur.com/oFI33tq.jpg");
+}
+
+#sam-zeidman-card {
+    background-image: url("http://i.imgur.com/ukHOgbw.jpg");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
